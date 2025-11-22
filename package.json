@@ -1,0 +1,10 @@
+{
+  "name": "todo-list",
+  "scripts": {
+    "sass": "sass css/main.scss css/main.css --watch",
+    "build": "sass css/main.scss css/main.css --style=compressed"
+  },
+  "devDependencies": {
+    "sass": "^1.66.1"
+  }
+}
